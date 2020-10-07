@@ -1,0 +1,1 @@
+Учебный проект Magic 8 Ball написан в Android Studio на Kotlin
